@@ -39,7 +39,7 @@ This project is licensed under a **Proprietary License**. See the [LICENSE.txt](
 
 
 ## Contact
-For questions or support, please contact me at mahipalkumawat810@gmail.com.
+For questions or support, please contact me at beereddynithish111@gmail.com.
 
 ## Live Application
 Visit our application at [Text to Handwriting Web Application](https://mahipal123456.github.io/Text-To-Handwriting/).
